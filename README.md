@@ -35,7 +35,7 @@ You can download the files in one of two ways:
   a folder
 
 Once the files are on your PC, add the folder `solarized-matlab` to your Matlab 
-path or **copy** the file file `setupSolarized.m` it to your working folder.
+path or **copy** the file `setupSolarized.m` into your working folder.
 
 ### Usage
 
@@ -47,11 +47,10 @@ when it is run. Here are examples of loading the *light* and *dark* themes.
 * `>> setupSolarized('light');`
 * `>> setupSolarized('dark');`
 
-This will load the color scheme. 
+Now restore the color scheme to Matlab's *default* option is also supported. 
 
 * `>> setupSolarized('default');`
 
-Now restore the color scheme to Matlab's *default* option is also supported.
 
 [ES]: http://ethanschoonover.com
 [ES-Solarized]: http://ethanschoonover.com/solarized
