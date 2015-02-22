@@ -20,11 +20,11 @@ color setup to restore Matlab's defaults.
 
 Solarized Light Color Scheme
 
-![LightImg](https://github.com/wyudong/solarized-matlab/blob/master/screenshots/light-theme.png)
+![LightImg](https://github.com/wyudong/solarized-matlab/blob/master/screenshots/solarized-light-theme-mac.png)
 
 Solarized Dark Color Scheme
 
-![DarkImg](https://github.com/wyudong/solarized-matlab/blob/master/screenshots/dark-theme.png)
+![DarkImg](https://github.com/wyudong/solarized-matlab/blob/master/screenshots/solarized-dark-theme-mac.png)
 
 ### Installation
 
