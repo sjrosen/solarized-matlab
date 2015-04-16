@@ -16,16 +16,6 @@ Solarized was initially ported for MATLAB by [Ben Hager][BH] and can be
 found at <https://github.com/benhager/solarized-matlab>. [Wang Yudong][wyudong] add
 color setup to restore Matlab's defaults.
 
-### Screenshots
-
-Solarized Light Color Scheme
-
-![LightImg](https://github.com/wyudong/solarized-matlab/blob/master/screenshots/solarized-light-theme-mac.png)
-
-Solarized Dark Color Scheme
-
-![DarkImg](https://github.com/wyudong/solarized-matlab/blob/master/screenshots/solarized-dark-theme-mac.png)
-
 ### Installation
 
 You can download the files in one of two ways:
