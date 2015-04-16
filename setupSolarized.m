@@ -10,7 +10,7 @@ function varargout = setupSolarized(varargin) %#ok<STOUT>
 %       http://ethanschoonover.com/solarized
 %
 % RESULTS OF SCRIPT:
-%   o The script loads the color pallet as defined by the solarized project
+%   o The script loads the color palette as defined by the solarized project
 %   o Optional string inputs are 'light', ''dark', or 'default' (see examples
 %   below for proper usage. The default option will restore the Matlab default
 %   color scheme.
@@ -40,7 +40,7 @@ elseif (nargin==0)
     slrzd = 'default';
 end
         
-% Setup the color pallet           % SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
+% Setup the color palette          % SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
 % divide by 255 for Matlab         % --------- ------- ---- -------  ----------- ---------- ----------- -----------
 sol.base03  = [  0  43  54] / 255; % base03    #002b36  8/4 brblack  234 #1c1c1c 15 -12 -12   0  43  54 193 100  21
 sol.base02  = [  7  54  66] / 255; % base02    #073642  0/4 black    235 #262626 20 -12 -12   7  54  66 192  90  26
